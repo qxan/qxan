@@ -2,7 +2,8 @@
 <a href="https://github.com/qxan"><img src="https://visitor-badge.laobi.icu/badge?page_id=mehmetenfa&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 <img src="images/developer.gif" width="400" align="right" alt="logo">
 <h3 align="center">A passionate FullStack developer</h3>
-<h6>🔭 I’m currently working on frontend and backend web development </h6>
+<h6>🔭 I’m 17 years old. 😃 </h6>
+<h6>🔭 I’m learning Full Stack Development  </h6>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
