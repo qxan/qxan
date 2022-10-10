@@ -69,7 +69,7 @@
 ## :star2: My Projects: 
 ## With React
 
-- <a href="" target="_blank" ></a>
+- <a href="https://places-tour.netlify.app" target="_blank" >Tour Places</a>
 
 ## With Django
 
