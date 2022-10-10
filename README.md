@@ -68,20 +68,51 @@
 
 ## :star2: My Projects: 
 ## With React
-
+- <a href="" target="_blank" ></a>
 - <a href="https://places-tour.netlify.app" target="_blank" >Tour Places</a>
+- <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  
 
 ## With Django
 
 - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
 
 ## With Bootsrap
 
 - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
+  - <a href="" target="_blank" ></a>
 
 ## With HTML5 CSS3 JavaScript
 
-- <a href="" target="_blank" ></a> 
+- <a href="https://double-vertical.netlify.app" target="_blank" >Double Vertical Slider</a> 
+- <a href="https://navigation-sticky.netlify.app" target="_blank" >Sticky Navigation</a>  
+- <a href="https://calculator-app-ios.netlify.app" target="_blank" >IOS Calculator</a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
 
 ## :fire: My Stats :
 
