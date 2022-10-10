@@ -43,6 +43,7 @@
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.google.com/search?q=tailwind+logo&client=opera-gx&hs=x8E&sxsrf=ALiCzsYI8oLsopl13UdE0VWmdISobi9wcQ:1665399304544&source=lnms&tbm=isch&sa=X&ved=2ahUKEwimhtPvv9X6AhUISPEDHYuYAd4Q_AUoAXoECAEQAw&biw=1920&bih=939&dpr=1#imgrc=pb-IhtyfUVah8M" alt="semantic-ui" height="60"/> </a>
 
 ## 💻 Backend
 
