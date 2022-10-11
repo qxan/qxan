@@ -105,11 +105,9 @@
 - <a href="https://js-wheather-app.netlify.app" target="_blank" >Wheather App</a>
 - <a href="https://animation-formwave.netlify.app" target="_blank" >Form Wave Animation</a>
 - <a href="https://todolistt-javascript.netlify.app" target="_blank" >Todo List</a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
+- <a href="https://navigation-sticky.netlify.app" target="_blank" >Sticky Navigation</a>
+- <a href="https://page-split-landing.netlify.app" target="_blank" >Split Landing Page</a>
+- <a href="https://guess-my-numb.netlify.app" target="_blank" >Guess Number</a>
 
 ## :fire: My Stats :
 
