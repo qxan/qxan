@@ -70,18 +70,24 @@
 ## :star2: My Projects: 
 ## With React
 - <a href="https://places-tour.netlify.app" target="_blank" >Tour Places</a>
-- <a href="" target="_blank" ></a>
+- <a href="https://react-clarusway-project.netlify.app" target="_blank" >Alpha Tech</a>
+- <a href="https://quotereact.netlify.app" target="_blank" >Get Quote</a>
   
   
 
 ## With Django
 
-- <a href="" target="_blank" ></a>
+
   
 
 ## With Bootsrap
 
-- <a href="" target="_blank" ></a>
+- <a href="https://legendary-moxie-2ec623.netlify.app" target="_blank" >Bootstrap Clarusway Page</a>
+- <a href="https://luxury-begonia-1cb35c.netlify.app/#contact" target="_blank" >Bootstrap Clarusway Page 2</a>
+  
+## With Tailwind CSS
+
+- <a href="https://charming-unicorn-427d17.netlify.app" target="_blank" >Tailwind Todo List</a>
   
 
 ## With HTML5 CSS3 JavaScript
@@ -89,12 +95,16 @@
 - <a href="https://double-vertical.netlify.app" target="_blank" >Double Vertical Slider</a> 
 - <a href="https://navigation-sticky.netlify.app" target="_blank" >Sticky Navigation</a>  
 - <a href="https://calculator-app-ios.netlify.app" target="_blank" >IOS Calculator</a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
+- <a href="https://candid-raindrop-f750a6.netlify.app" target="_blank" >Starbuck Clone</a>
+- <a href="https://magnificent-biscuit-d15bfe.netlify.app" target="_blank" >The Creative Crew</a>
+- <a href="https://stalwart-narwhal-ebad78.netlify.app" target="_blank" >Netflix Clone</a>
+- <a href="https://celebrated-cannoli-374867.netlify.app" target="_blank" >Google Clone</a>
+- <a href="https://js-checkout-form.netlify.app" target="_blank" >Checkout Form</a>
+- <a href="https://shimmering-sunshine-aa6328.netlify.app" target="_blank" >Claruway Parallax</a>
+- <a href="https://theme-clock-js.netlify.app" target="_blank" >Theme Clock</a>
+- <a href="https://js-wheather-app.netlify.app" target="_blank" >Wheather App</a>
+- <a href="https://animation-formwave.netlify.app" target="_blank" >Form Wave Animation</a>
+- <a href="https://todolistt-javascript.netlify.app" target="_blank" >Todo List</a>
 - <a href="" target="_blank" ></a>
 - <a href="" target="_blank" ></a>
 - <a href="" target="_blank" ></a>
