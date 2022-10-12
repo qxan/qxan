@@ -108,6 +108,7 @@
 - <a href="https://navigation-sticky.netlify.app" target="_blank" >Sticky Navigation</a>
 - <a href="https://page-split-landing.netlify.app" target="_blank" >Split Landing Page</a>
 - <a href="https://guess-my-numb.netlify.app" target="_blank" >Guess Number</a>
+- <a href="https://poke-dexjs.netlify.app" >Pokedex</a>
 
 ## :fire: My Stats :
 
