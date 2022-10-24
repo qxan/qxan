@@ -72,7 +72,8 @@
 - <a href="https://places-tour.netlify.app" target="_blank" >Tour Places</a>
 - <a href="https://react-clarusway-project.netlify.app" target="_blank" >Alpha Tech</a>
 - <a href="https://quotereact.netlify.app" target="_blank" >Get Quote</a>
-  
+- <a href="https://randomuser-react.netlify.app" target="_blank" >Random User</a>
+- <a href="https://tasktracker-withreact.netlify.app" target="_blank" >Task Tracker</a>
   
 
 ## With Django
