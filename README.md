@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+there+I+am+Mehmet...)](https://git.io/typing-svg)
 <a href="https://github.com/qxan"><img src="https://visitor-badge.laobi.icu/badge?page_id=mehmetenfa&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
 <img src="images/Yazılımcı-Gif.gif" width="400" align="right" alt="logo">
-<h3 align="center">A passionate FullStack developer</h3>
-<h4>🔭 I’m learning Full Stack Development  </h4>
+<h3 align="center">A passionate FrontEnd developer</h3>
+<h4>🔭 I’m learning FrontEnd Development  </h4>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
