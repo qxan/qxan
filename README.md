@@ -10,21 +10,12 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/menfavakitsayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet enfa" height="30" width="40" />linkedin</a>
-   <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmet enfa" height="30" width="40" />instagram</a>
   <a href="https://twitter.com/mhmt_enf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmet enfa" height="30" width="40" />twitter</a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehmet enfa" height="30" width="40" />facebook</a>
   <br><br>
-   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" alt="mehmet enfa" height="30" width="40" />xing</a>
   <a href="https://app.netlify.com/teams/qxan/overview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="mehmet enfa" height="30" width="40" />netlify</a>
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" alt="mehmet enfa" height="30" width="40" />heroku</a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="mehmet enfa" height="30" width="40" />vercel</a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/giphy.svg" alt="mehmet enfa" height="30" width="40" />giphy</a>
-<br><br>
-<a href="https://www.sololearn.com/profile/26025807" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/sololearn.svg" alt="mehmet enfa" height="30" width="40" />sololearn</a>
-    <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="mehmet enfa" height="30" width="40" />figma</a>
-    <a href="https://stackoverflow.com/users/20199013/mehmet-enfa-vakitsayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/stackoverflow.svg" alt="mehmet enfa" height="30" width="40" />stackoverflow</a>
-<a href="https://codepen.io/qxan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mehmet enfa" height="30" width="40" />codepen</a>
-<br><br>
+<a href="https://stackoverflow.com/users/20199013/mehmet-enfa-vakitsayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/stackoverflow.svg" alt="mehmet enfa" height="30" width="40" />stackoverflow</a>
+
 <a href="https://medium.com/@mehmet.enfa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/medium.svg" alt="mehmet enfa" height="30" width="40" />medium</a>
 
   <br>
@@ -56,7 +47,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qxan&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qxan&show_icons=true) -->
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=qxan&theme=tokyonight&hide_border=false)<br/> 
 
 
